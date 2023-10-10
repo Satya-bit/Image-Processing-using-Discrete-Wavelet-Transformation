@@ -1,5 +1,5 @@
 # Image-Processing-using-Discrete-Wavelet-Transformation
-**Objective**
+**=>Objective**
 
 Three type of image is processing can be done:
 
@@ -12,7 +12,7 @@ information of every input image.
 ●Image Morphing : Image morphing is done to achieve face morphing from faces of two different
 persons.
 
-**Techniques**
+**=>Techniques**
 
 * Firstly, the user has to select images that he wants for image
 processing as an input.
@@ -40,7 +40,7 @@ Discrete Wavelet Transform for the final output of the process.
 ![image](https://github.com/Satya-bit/Image-Processing-using-Discrete-Wavelet-Transformation/assets/70309925/87db2004-7d00-446e-9947-87f6185454c2)
 
 
-**Process**
+**=>Process**
 
 * In our project we will be doing sub band fusion of the decomposition image that we got
 earlier for the fusion process.
